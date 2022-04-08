@@ -1,4 +1,3 @@
-# Formulario-HTML
 <!DOCTYPE html>
 <html>
 
@@ -31,8 +30,39 @@
 <input type="text"><br> 
       <p><label>CEP:</label><br>  
         <input type="text"><br></p>
-      <label>Estado:</label><br>
-      <input type="search"><br></p>
+
+      <form>
+     
+      <label> Estado:</label>
+      <select id="cars" name="cars">
+        <option value="volvo">AC</option>
+   <option value="volvo">AL</option>
+      <option value="volvo">AP</option>
+      <option value="volvo">AM</option>
+      <option value="volvo">BA</option>
+      <option value="volvo">CE</option>
+      <option value="volvo">ES</option>
+      <option value="volvo">GO</option>
+      <option value="volvo">MA</option>
+      <option value="volvo">MT</option>
+      <option value="volvo">MS</option>
+      <option value="volvo">MG</option>
+      <option value="volvo">PA</option>
+      <option value="volvo">PB</option>
+      <option value="volvo">PR</option>
+      <option value="volvo">PE</option>
+      <option value="volvo">PI</option>
+      <option value="volvo">RJ</option>
+      <option value="volvo">RN</option>
+      <option value="volvo">RS</option>
+      <option value="volvo">RO</option>
+      <option value="volvo">RR</option>
+      <option value="volvo">SC</option>
+      <option value="volvo">SP</option>
+      <option value="volvo">SE</option>
+      <option value="volvo">TO</option>
+      </select>
+        </form>
 
       <h3> Dados Profissionais </h3>
       <p> <label> Mini-Currículo:</label><br>  
@@ -47,6 +77,6 @@
         
   
     <script src="script.js"></script>
+      
 </body>
-
 </html>
