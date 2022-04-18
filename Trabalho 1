@@ -71,7 +71,7 @@
       <p><label>Horários para entrevista.</label></p>
       <p><input type="radio" id="7:00 ás 12:00" name="Horarios"
      <label>7:00 ás 12:00</label></p>
-      <input type="radio" id= 13:00 ás 16:20" name="horarios"
+      <input type="radio" id= "13:00 ás 16:20" name="Horarios"
       <label>13:00 ás 16:20</label>
 <p><input type="submit" value="ENVIAR"</p>
         
